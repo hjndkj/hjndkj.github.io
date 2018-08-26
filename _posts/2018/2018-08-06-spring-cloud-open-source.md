@@ -16,7 +16,7 @@ keywords: Spring Cloud,open source
 
 **产品主页**
 
-[http://springcloud.fun/](http://springcloud.fun/)  
+[http://springcloud.fun/](http://springcloud.fun/)
 
 **项目主页**
 
@@ -26,10 +26,9 @@ keywords: Spring Cloud,open source
 
 ![](http://www.ityouknow.com/assets/images/2018/springcloud/awesome-spring-cloud.png)
 
-
 ## 2、 [PiggyMetrics](https://github.com/sqshq/PiggyMetrics)
 
-一个简单的个人财务系统，基于 Spring Boot，Spring Cloud 和 Docker 简单演示了微服务的架构模式，整个项目几乎包含了 Spring Cloud 的所有特性包括 配置中心、Gateway zuul API 网关、Eureka 服务发现、Hystrix、Turbine仪 表盘应用健康监控等等。
+一个简单的个人财务系统，基于 Spring Boot，Spring Cloud 和 Docker 简单演示了微服务的架构模式，整个项目几乎包含了 Spring Cloud 的所有特性包括 配置中心、Gateway zuul API 网关、Eureka 服务发现、Hystrix、Turbine 仪 表盘应用健康监控等等。
 
 PiggyMetrics 被分解为三个核心微服务。这些服务都是围绕某些业务能力组织的可独立部署的应用程序。
 
@@ -55,15 +54,14 @@ spring cloud + vue 全家桶实战，模拟商城，完整的购物流程、后�
 模拟商城，完整的购物流程、后端运营平台对前端业务的支撑，和对项目的运维，有各项的监控指标和运维指标。
 
 技术点：
-核心技术为springcloud+vue两个全家桶实现，采取了取自开源用于开源的目标，所以能用开源绝不用收费框架，整体技术栈只有
-阿里云短信服务是收费的，都是目前java前瞻性的框架，可以为中小企业解决微服务架构难题，可以帮助企业快速建站。由于服务
-器成本较高，尽量降低开发成本的原则，本项目由10个后端项目和3个前端项目共同组成。真正实现了基于RBAC、jwt和oauth2的
-无状态统一权限认证的解决方案，实现了异常和日志的统一管理，实现了MQ落地保证100%到达的解决方案。
-
+核心技术为 springcloud+vue 两个全家桶实现，采取了取自开源用于开源的目标，所以能用开源绝不用收费框架，整体技术栈只有
+阿里云短信服务是收费的，都是目前 java 前瞻性的框架，可以为中小企业解决微服务架构难题，可以帮助企业快速建站。由于服务
+器成本较高，尽量降低开发成本的原则，本项目由 10 个后端项目和 3 个前端项目共同组成。真正实现了基于 RBAC、jwt 和 oauth2 的
+无状态统一权限认证的解决方案，实现了异常和日志的统一管理，实现了 MQ 落地保证 100%到达的解决方案。
 
 **产品主页**
 
-[http://mall.paascloud.net/index](http://mall.paascloud.net/index)  
+[http://mall.paascloud.net/index](http://mall.paascloud.net/index)
 
 **项目主页**
 
@@ -73,11 +71,9 @@ spring cloud + vue 全家桶实战，模拟商城，完整的购物流程、后�
 
 ![](http://www.ityouknow.com/assets/images/2018/springcloud/paascloud.png)
 
-
 ## 4、 [Cloud-Admin](https://gitee.com/minull/ace-security)
 
-Cloud-Admin是国内首个基于Spring Cloud微服务化开发平台，核心技术采用Spring Boot2以及Spring Cloud Gateway相关核心组件，前端采用vue-element-admin组件。具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关API管理等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。代码简洁，架构清晰，适合学习和直接项目中使用。
-
+Cloud-Admin 是国内首个基于 Spring Cloud 微服务化开发平台，核心技术采用 Spring Boot2 以及 Spring Cloud Gateway 相关核心组件，前端采用 vue-element-admin 组件。具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关 API 管理等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。代码简洁，架构清晰，适合学习和直接项目中使用。
 
 **项目主页**
 
@@ -87,11 +83,9 @@ Cloud-Admin是国内首个基于Spring Cloud微服务化开发平台，核心技
 
 ![](http://www.ityouknow.com/assets/images/2018/springcloud/ace-security.png)
 
-
-
 ## 5、 [spring-cloud-rest-tcc](https://github.com/prontera/spring-cloud-rest-tcc)
 
-基于Spring Cloud Netflix的TCC柔性事务和EDA事件驱动示例，结合Spring Cloud Sleuth进行会话追踪和Spring Boot Admin的健康监控，并辅以Hystrix Dashboard提供近实时的熔断监控.
+基于 Spring Cloud Netflix 的 TCC 柔性事务和 EDA 事件驱动示例，结合 Spring Cloud Sleuth 进行会话追踪和 Spring Boot Admin 的健康监控，并辅以 Hystrix Dashboard 提供近实时的熔断监控.
 
 **项目主页**
 
@@ -99,16 +93,15 @@ Cloud-Admin是国内首个基于Spring Cloud微服务化开发平台，核心技
 
 **项目架构**
 
-![](http://www.ityouknow.com/assets/images/2018/springcloud/spring-cloud-rest-tcc.png) 
-
+![](http://www.ityouknow.com/assets/images/2018/springcloud/spring-cloud-rest-tcc.png)
 
 ## 6、 [pig](https://gitee.com/log4j/pig)
 
-基于Spring Cloud、oAuth2.0开发，基于Vue前后分离的开发平台，支持账号、短信、SSO等多种登录
+基于 Spring Cloud、oAuth2.0 开发，基于 Vue 前后分离的开发平台，支持账号、短信、SSO 等多种登录
 
 **产品主页**
 
-[https://www.pig4cloud.com/](https://www.pig4cloud.com/)  
+[https://www.pig4cloud.com/](https://www.pig4cloud.com/)
 
 **项目主页**
 
@@ -116,16 +109,15 @@ Cloud-Admin是国内首个基于Spring Cloud微服务化开发平台，核心技
 
 **产品截图**
 
-![](http://www.ityouknow.com/assets/images/2018/springcloud/ping.png) 
-
+![](http://www.ityouknow.com/assets/images/2018/springcloud/ping.png)
 
 ## 7、 [xxpay-master](https://gitee.com/jmdhappy/xxpay-master)
 
-XxPay聚合支付使用Java开发，包括spring-cloud、dubbo、spring-boot三个架构版本，已接入微信、支付宝等主流支付渠道，可直接用于生产环境。
+XxPay 聚合支付使用 Java 开发，包括 spring-cloud、dubbo、spring-boot 三个架构版本，已接入微信、支付宝等主流支付渠道，可直接用于生产环境。
 
 **产品主页**
 
-[http://www.xxpay.org/](http://www.xxpay.org/)  
+[http://www.xxpay.org/](http://www.xxpay.org/)
 
 **项目主页**
 
@@ -133,8 +125,7 @@ XxPay聚合支付使用Java开发，包括spring-cloud、dubbo、spring-boot三�
 
 **产品截图**
 
-![](http://www.ityouknow.com/assets/images/2018/springcloud/xxpay.png) 
-
+![](http://www.ityouknow.com/assets/images/2018/springcloud/xxpay.png)
 
 ## 8、 [spring-boot-cloud](https://github.com/zhangxd1989/spring-boot-cloud)
 
@@ -146,12 +137,11 @@ XxPay聚合支付使用Java开发，包括spring-cloud、dubbo、spring-boot三�
 
 **项目架构**
 
-![](http://www.ityouknow.com/assets/images/2018/springcloud/spring-boot-cloud.jpg) 
-
+![](http://www.ityouknow.com/assets/images/2018/springcloud/spring-boot-cloud.jpg)
 
 ## 9、 [FCat](https://gitee.com/xfdm/FCat)
 
-FCat项目基于 Angular 4 + Spring Cloud 的企业级基础功能框架。
+FCat 项目基于 Angular 4 + Spring Cloud 的企业级基础功能框架。
 
 **项目主页**
 
@@ -159,8 +149,7 @@ FCat项目基于 Angular 4 + Spring Cloud 的企业级基础功能框架。
 
 **项目架构**
 
-![](http://www.ityouknow.com/assets/images/2018/springcloud/FCat.png) 
-
+![](http://www.ityouknow.com/assets/images/2018/springcloud/FCat.png)
 
 ## 10、 [spring-cloud-examples](https://github.com/ityouknow/spring-cloud-examples)
 
@@ -172,11 +161,10 @@ Spring Cloud 技术栈示例代码，快速简单上手教程，一个帮助大�
 
 **项目截图**
 
-![](http://www.ityouknow.com/assets/images/2018/springcloud/spring-cloud-examples.png) 
+![](http://www.ityouknow.com/assets/images/2018/springcloud/spring-cloud-examples.png)
 
 > 应该还有更多优秀的 Spring Cloud 开源项目，目前仅发现这些，也希望大家多反馈一些优秀的 Spring Cloud 开源项目，统一将这些项目收集到 awesome-spring-cloud 中，方便后续大家学习查找。
 
-
 ## 参考
 
-[Spring Cloud 中文索引](http://springcloud.fun/)  
+[Spring Cloud 中文索引](http://springcloud.fun/)

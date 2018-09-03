@@ -4,7 +4,7 @@ title: MongoDB 系列文章
 titlebar: MongoDB
 subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; MongoDB 系列教程
 menu: mongodb
-css: ['blog-page.css']
+css: ["blog-page.css"]
 permalink: /mongodb
 keywords: MongoDB,MongoDB 集群,部署,搭建,MongoDB 教程
 ---
@@ -25,7 +25,7 @@ keywords: MongoDB,MongoDB 集群,部署,搭建,MongoDB 教程
                 </li>
                 {% endif %}
             {% endfor %}
-        </ul> 
+        </ul>
 
         <!-- Pagination -->
         {% include pagination.html %}
@@ -44,4 +44,5 @@ keywords: MongoDB,MongoDB 集群,部署,搭建,MongoDB 教程
         $("body").tooltip({ selector: '[data-toggle=tooltip]' });
 
     });
+
 </script>

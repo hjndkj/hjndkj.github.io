@@ -2,9 +2,7 @@
 layout: page
 title: Spring Boot 系列文章
 titlebar: spring-boot
-subtitle: 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href ="/assets/images/keeppuresmile.jpg">关注公众号：<font color="#00FF00">特立独行的小狮子</font></a>
+subtitle: <a href ="/assets/images/keeppuresmile.jpg">关注公众号：<font color="#00FF00">特立独行的小狮子</font></a>
 menu: spring-boot
 css: ["blog-page.css"]
 permalink: /spring-boot

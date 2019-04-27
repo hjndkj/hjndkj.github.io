@@ -90,13 +90,13 @@ labels:
 
 # selected articles
 classes:
-  - href: /arch.html
-    name: 架构师之路
-    describe: 一个架构师的自我修养
-
-  - href: /jvm.html
-    name: Jvm系列文章
-    describe: Java之根基，Java程序员必学
+#  - href: /arch.html
+#    name: 架构师之路
+#    describe: 一个架构师的自我修养
+#
+#  - href: /jvm.html
+#    name: Jvm系列文章
+#    describe: Java之根基，Java程序员必学
 
 # ---------------- #
 #       RSS        #
